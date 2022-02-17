@@ -26,7 +26,7 @@ def knuth(T,a,m):
          Seminumerical Algorithms, 1998
     """
 
-    # S1) initialize values
+    # S1) initialize the values
     t = 2
     h = a
     h_prime = m
@@ -143,4 +143,3 @@ def main():
 main()
 
 
-#heyheyhey
