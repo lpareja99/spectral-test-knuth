@@ -141,3 +141,6 @@ def main():
         print(*map(lambda t: knuth(t,a[i],m[i]) > 2**(30/t), range(2,9)))
 
 main()
+
+
+#heyheyhey
